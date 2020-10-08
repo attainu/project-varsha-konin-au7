@@ -1,3 +1,5 @@
+// require necessary modules
+
 const {connect} = require('mongoose')
 var dotenv = require('dotenv')
 
